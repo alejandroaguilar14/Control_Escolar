@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Importar librerías de Bootstrap -->
+    <!-- Importar las librerías de Bootstrap -->
     <link rel="stylesheet" href="{{ URL::asset('bootstrap-5.3.2-dist/css/bootstrap.min.css') }}" />
     <!-- Importar los archivos JavaScript de Bootstrap -->
     <script src="{{ URL::asset('bootstrap-5.3.2-dist/js/bootstrap.min.js') }}"></script>
