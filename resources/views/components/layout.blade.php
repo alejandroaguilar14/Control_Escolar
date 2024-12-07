@@ -1,17 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Importar las librerías de Bootstrap -->
-    <link rel="stylesheet" href="{{ URL::asset('bootstrap-5.3.2-dist/css/bootstrap.min.css') }}" />
-    <!-- Importar los archivos JavaScript de Bootstrap -->
-    <script src="{{ URL::asset('bootstrap-5.3.2-dist/js/bootstrap.min.js') }}"></script>
-    
-    
     <!-- Importar librerías de estilos y JavaScript de DataTables para manipular desde el navegador del usuario -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
